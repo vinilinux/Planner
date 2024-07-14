@@ -6,9 +6,16 @@ O Planejador de Viagens é uma aplicação backend desenvolvida em Java utilizan
 
 ## Funcionalidades
 
-- Cadastro de viagens
-- Convite para outras pessoas participarem das viagens
-- Gerenciamento de viagens cadastradas
+- Criar Viagem
+- Obter Detalhes da Viagem
+- Atualizar Viagem
+- Confirmar Viagem
+- Convidar Participante
+- Listar Participantes
+- Registrar Atividade
+- Listar Atividades
+- Registrar Link
+- Listar Links
 
 ## Tecnologias Utilizadas
 
